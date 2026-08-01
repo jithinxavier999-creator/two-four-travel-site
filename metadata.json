@@ -1,0 +1,6 @@
+{
+  "name": "Two Four Travel - South India Taxi & Tour Packages",
+  "description": "Trusted travel agency based in Kerala providing reliable taxi services, airport transfers, and customized tour packages across South India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
